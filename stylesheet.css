@@ -1,0 +1,51 @@
+body {
+    
+    padding-top: 20px;
+    background-color: #e6e6fa; 
+    color: #333; 
+  }
+
+  .container {
+    margin-top: 20px;
+  }
+
+  .col-divider {
+    border-right: 1px solid #d8bfd8; 
+  }
+
+  .btn-primary {
+    background-color: #b0e0e6;
+    border-color: #b0e0e6;
+  }
+
+  .btn-primary:hover {
+    background-color: #add8e6;
+    border-color: #add8e6;
+  }
+
+  .list-group-item {
+    background-color: #e0e0e0; 
+    border-color: #bdbdbd; 
+  }
+
+  .alert-info {
+    background-color: #d1c4e9; 
+    border-color: #b39ddb; 
+    color: #0a090a; 
+  }
+
+.bg-thistle {
+  background-color: thistle;
+}
+
+.bg-plum {
+  background-color: plum;
+}
+
+.bg-lavender-blush {
+  background-color: lavenderblush;
+}
+
+  
+  
+  
